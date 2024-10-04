@@ -1,4 +1,5 @@
 {
     "type": "java",
-    "label": "my_chaincode_v1"
+    "label": "hyperledger-chaincode-java
+"
 }
